@@ -1,2 +1,2 @@
 # GoFood
-A progressive web app built using MERN stack.
+•	The application enables users to browse menus, place orders, track deliveries, and manage payments through an intuitive interface.
